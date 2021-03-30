@@ -19,6 +19,28 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 
 可以说，你想要的，这里都有！
 
+<h1 align="left">About</h1>
+
+<p align="center"  font-size="18px">
+  <a href="https://www.zhihu.com/people/sharetechlee/activities">
+知乎：Jackpop</a>   | 
+  <a href="https://space.bilibili.com/353631242/video">B站：资源索引</a>  |       
+  <a href="https://mp.weixin.qq.com/s/pDC6sBJaikGpbXKWA0Nf5Q" rel="nofollow">公众号：后端极客</a>     
+</p>    
+
+**作者简介**：硕士毕业于哈尔滨工业大学，曾先后就职于华为、阿里巴巴，具有多年互联网、IT行业工作经验。
+
+多年以来坚持在微信公众号、知乎等平台进行免费分享，收获到不少读者的喜爱。
+
+希望我的分享能够惠及到更多同学，如果你对升学、职场、工作等内容感兴趣，可以和我进行交流！
+
+最后，欢迎大家关注我的公众号：**后端极客**，一个开发人员进阶提升的优秀平台！
+
+**问题反馈**：如果书籍无法下载，或者链接失效，请添加我的个人微信**code_7steps**咨询，请备注**git**！
+
+<img src="https://z3.ax1x.com/2021/03/26/6XhNWQ.jpg" width="260" height="260"></img>
+
+
 <h1 align="left">Contents</h1>
 
 - [1-C/C++](#1-C/C++)
@@ -50,6 +72,34 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 - 《征服C指针》 [百度云下载链接](https://pan.baidu.com/s/1mT9945ogYY5ENprSlvLPYQ) 提取码：neri
 
 #### 1.2-C++
+
+- 《C++ Primer-第4版》 [百度云下载链接](https://pan.baidu.com/s/1ep04x8Jhy8flXlRdhO-V4Q) 提取码：4erz
+- 《C++ Primer习题集》 [百度云下载链接](https://pan.baidu.com/s/1gtOa5IohXCfJW5hG_sDdAw) 提取码：wvf2
+- 《C++Primer 5th 英文版》 [百度云下载链接](https://pan.baidu.com/s/1AMq1KPOJD1L8F84kTjUIww) 提取码：5lfg
+- 《C++ Templates》 [百度云下载链接](https://pan.baidu.com/s/1pU6gnsTR7XYNtVSXohv2MQ) 提取码：minb
+- 《C++编程调试秘笈》 [百度云下载链接](https://pan.baidu.com/s/1JmR1AFRKUuclEpq8V66qFg) 提取码：ik2y
+- 《C++大学教程》 [百度云下载链接](https://pan.baidu.com/s/1HsltjnyUfZqG--bqq3iO-A) 提取码：t5fl
+- 《C++编程思想（两卷合订本）》 [百度云下载链接](https://pan.baidu.com/s/1ItFh_H6qAQW2QbL8U9ibnw) 提取码：k6xy
+- 《C++程序设计语言》 [百度云下载链接](https://pan.baidu.com/s/1oRb2DwUjsq_a_JvBfE8XOg) 提取码：27dr
+- 《C++编程规范-101条规则准则与最佳实践》 [百度云下载链接](https://pan.baidu.com/s/1Ql8TsLN0Z3RVq-TDR2W5ww) 提取码：9fu2
+- 《C++沉思录中文第2版》 [百度云下载链接](https://pan.baidu.com/s/1oxyRHDgp9twVWAjZ-BUgPQ) 提取码：59d5
+- 《C++并发编程实战》 [百度云下载链接](https://pan.baidu.com/s/1hUO6BLRZcVQL9n04oCk15w) 提取码：wogl
+- 《C++对象模型》 [百度云下载链接](https://pan.baidu.com/s/1ny_pb4lrX0Yl0zse2Bnpvg) 提取码：p32z
+- 《Effective C++  第三版 高清PDF》 [百度云下载链接](https://pan.baidu.com/s/1aSf9kyv7TBRcGcFgOs0sYQ) 提取码：ci6w
+- 《C++设计新思维-泛型编程与设计之应用》 [百度云下载链接](https://pan.baidu.com/s/11WxC3f0pbk81Ysz9M6In6g) 提取码：8vhe
+- 《C++工程实践经验课》 [百度云下载链接](https://pan.baidu.com/s/11SWgGH3_2rFLgSu6zJpFYw) 提取码：pksr
+- 《STL源码剖析+源码》 [百度云下载链接](https://pan.baidu.com/s/1eAtMoPHUUVv_00LkxPxlXg) 提取码：atl9
+- 《Effective STL中文版》 [百度云下载链接](https://pan.baidu.com/s/1vSNSXz0pM3qQJKIkD7bmEQ) 提取码：c11k
+- 《Modern C++ Design》 [百度云下载链接](https://pan.baidu.com/s/1h8R-QPsrL-13eGt0DWXdtw) 提取码：0704
+- 《深入理解C++11新特性解析与应用》 [百度云下载链接](https://pan.baidu.com/s/1JQ8OMW7igpPRxG6xgX8hOQ) 提取码：psbc
+- 《Effective-C++-第二版》 [百度云下载链接](https://pan.baidu.com/s/1u3IO6AZteFfHnUm7d48pIA) 提取码：l6co
+- 《陈硕 - C++实践工程学》 [百度云下载链接](https://pan.baidu.com/s/11b_-v4d0iBTLnHWsKu0SsQ) 提取码：3146
+- 《侯捷STL课件》 [百度云下载链接](https://pan.baidu.com/s/1Kc9VsADTas4XVxH2QbyeUQ) 提取码：omgg
+- 《跟我一起写makefile》 [百度云下载链接](https://pan.baidu.com/s/1WnE-Y8HWxtXsGBTkOCxBdg) 提取码：jmpf
+- 《深度探索C++对象模型》 [百度云下载链接](https://pan.baidu.com/s/12KfSSnXLltw68RYmdpLb-Q) 提取码：ouf7
+- 《提高C++性能的编程技术.左飞》 [百度云下载链接](https://pan.baidu.com/s/1Ek69t4emi5g-nxp7B-AC_Q) 提取码：07sb
+- 《深入理解C++11》 [百度云下载链接](https://pan.baidu.com/s/1J-iJ2qTHQ9PNbeCWO3Y_uA) 提取码：1wen
+- 《C++ Primer Plus》 [百度云下载链接](https://pan.baidu.com/s/1Vdo9rUmlMGQLBdjaxWx2_Q) 提取码：8h3c
 
 ### 2-Python
 
@@ -117,26 +167,6 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 - 《Hadoop权威指南》 [百度云下载链接](https://pan.baidu.com/s/1r1DhrkhMKgERWCP5IFVbyw) 提取码：b3lw
 - 《Hive编程指南》 [百度云下载链接](https://pan.baidu.com/s/1B_FYECdwmi8MyRZLaE3BUw) 提取码：651y
 
-<h1 align="left">About</h1>
-
-<p align="center"  font-size="18px">
-  <a href="https://www.zhihu.com/people/sharetechlee/activities">
-知乎：Jackpop</a>   | 
-  <a href="https://space.bilibili.com/353631242/video">B站：资源索引</a>  |       
-  <a href="https://mp.weixin.qq.com/s/pDC6sBJaikGpbXKWA0Nf5Q" rel="nofollow">公众号：后端极客</a>     
-</p>    
-
-**作者简介**：硕士毕业于哈尔滨工业大学，曾先后就职于华为、阿里巴巴，具有多年互联网、IT行业工作经验。
-
-多年以来坚持在微信公众号、知乎等平台进行免费分享，收获到不少读者的喜爱。
-
-希望我的分享能够惠及到更多同学，如果你对升学、职场、工作等内容感兴趣，可以和我进行交流！
-
-最后，欢迎大家关注我的公众号：**后端极客**，一个开发人员进阶提升的优秀平台！
-
-**问题反馈**：如果书籍无法下载，或者链接失效，请添加我的个人微信**code_7steps**咨询，请备注**git**！
-
-<img src="https://z3.ax1x.com/2021/03/26/6XhNWQ.jpg" width="260" height="260"></img>
 
 
 
