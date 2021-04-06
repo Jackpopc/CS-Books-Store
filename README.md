@@ -47,6 +47,8 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
   - [1.1-C语言](#1.1-C语言)
   - [1.2-C++](#1.2-C++)
 - [2-Python](#2-Python)
+- [3-大数据](#3-大数据)
+- [4-JavaScript](#4-JavaScript)
 
 
 ## 1-C/C++
@@ -70,6 +72,9 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 - 《C语言程序设计\_现代方法》 [百度云下载链接](https://pan.baidu.com/s/1qfnfhJD0oXjWGAuNMEMNYw) 提取码：f44t
 - 《C专家编程》 [百度云下载链接](https://pan.baidu.com/s/1Vt4_MBbRBUwvAhM3Dkdsxg) 提取码：7bg5
 - 《征服C指针》 [百度云下载链接](https://pan.baidu.com/s/1mT9945ogYY5ENprSlvLPYQ) 提取码：neri
+- 《C语言开发从入门到精通》[百度云下载链接](https://pan.baidu.com/s/1GWCqxYywVx08kErhJxd8XQ) 提取码：s1hc
+- 《C语言核心技术》[百度云下载链接](https://pan.baidu.com/s/18RFmjPuJrBDwlgXldnBEFw) 提取码：nc3h
+- 《C Primer Plus(第五版)中文版》[百度云下载链接](https://pan.baidu.com/s/16DjKcmyBKMniscUoZPR4PA) 提取码：x8xp
 
 #### 1.2-C++
 
@@ -100,6 +105,8 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 - 《提高C++性能的编程技术.左飞》 [百度云下载链接](https://pan.baidu.com/s/1Ek69t4emi5g-nxp7B-AC_Q) 提取码：07sb
 - 《深入理解C++11》 [百度云下载链接](https://pan.baidu.com/s/1J-iJ2qTHQ9PNbeCWO3Y_uA) 提取码：1wen
 - 《C++ Primer Plus》 [百度云下载链接](https://pan.baidu.com/s/1Vdo9rUmlMGQLBdjaxWx2_Q) 提取码：8h3c
+- 《C++程序设计原理与实践》 [百度云下载链接](https://pan.baidu.com/s/1Kyq5k2tz6kEd70KQ_GO0Rg) 提取码：px6d
+- 《C++ Primer Plus第六版》 [百度云下载链接](https://pan.baidu.com/s/1D58p-JeuTq-Az3mE2V83Iw) 提取码：89rk
 
 ### 2-Python
 
@@ -167,6 +174,23 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 - 《Hadoop权威指南》 [百度云下载链接](https://pan.baidu.com/s/1r1DhrkhMKgERWCP5IFVbyw) 提取码：b3lw
 - 《Hive编程指南》 [百度云下载链接](https://pan.baidu.com/s/1B_FYECdwmi8MyRZLaE3BUw) 提取码：651y
 
+### 4-JavaScript
 
-
-
+- 《Javascript从入门到精通》[百度云下载链接](https://pan.baidu.com/s/1T8FpCrTdUZQcpGX2UrG__g) 提取码：88m7
+- 《JavaScript高级程序设计（第3版）》[百度云下载链接](https://pan.baidu.com/s/1WjA-9aOqshxDgnom10O4RQ) 提取码：wbw7
+- 《01.JavaScript_DOM编程艺术第二版（中文）》[百度云下载链接](https://pan.baidu.com/s/1npshUDBLi1FrFSwWOQEmoQ) 提取码：vibs
+- 《零基础学JavaScript(第2版)》[百度云下载链接](https://pan.baidu.com/s/1X9mKBB_z8vkZ9-s6nlbG-A) 提取码：jsi6
+- 《精通JavaScript动态网页编程》[百度云下载链接](https://pan.baidu.com/s/14223IlrH6qpZG-eIAPFSEg) 提取码：us3f
+- 《JavaScript王者归来》[百度云下载链接](https://pan.baidu.com/s/1YbjgOUqntRLytDo6JLVHvQ) 提取码：vjzh
+- 《JavaScript完全手册》[百度云下载链接](https://pan.baidu.com/s/15_6vU_lY_G0Cqgcm7JPj8w) 提取码：l6k0
+- 《JavaScript实战手册》[百度云下载链接](https://pan.baidu.com/s/143ghfOhnODnci1Sw7KyTaA) 提取码：5k6z
+- 《JavaScript实例自学手册 通过486个例子掌握Web开发捷径》[百度云下载链接](https://pan.baidu.com/s/1lrmGFjbo20-wwk1IllScog) 提取码：quar
+- 《JavaScript入门经典(第4版)》[百度云下载链接](https://pan.baidu.com/s/1gucBZWqAVJvo_ExLCDQMZg) 提取码：g56c
+- 《JavaScript全程指南》[百度云下载链接](https://pan.baidu.com/s/10Gmi0lJCubplB7m-vbs_8w) 提取码：3buv
+- 《JavaScript权威指南(第5版)》[百度云下载链接](https://pan.baidu.com/s/18NkMh44BWBYTjtQr4wxvPA) 提取码：y848
+- 《JavaScript模式》[百度云下载链接](https://pan.baidu.com/s/14BxwqRc_znZvOYx2Jh_hEQ) 提取码：x8mp
+- 《JavaScript凌厉开发—Ext JS 3详解与实践》[百度云下载链接](https://pan.baidu.com/s/1O69c3VV1ybpnwzuCFbcBxA) 提取码：wyxy
+- 《Javascript框架高级编程--应用prototype、yui、ext js、dojo、mootools》[百度云下载链接](https://pan.baidu.com/s/1pILCYUU7sdnE4F9E2BKdkg) 提取码：ftiz
+- 《JavaScript快速开发工具箱》[百度云下载链接](https://pan.baidu.com/s/16jXe7bdvKQ5PSUKsaU9sGA) 提取码：656j
+- 《JavaScript从入门到精通（第2版）》[百度云下载链接](https://pan.baidu.com/s/1pS1ouYLzu7eUpoVUxbtr0Q) 提取码：jrt6
+- 《JavaScript.DOM编程艺术（第2版）》[百度云下载链接](https://pan.baidu.com/s/11S3QCWyR-l-XbuDPv9aKHw) 提取码：cxv3
