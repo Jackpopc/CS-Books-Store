@@ -49,6 +49,7 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 - [2-Python](#2-Python)
 - [3-大数据](#3-大数据)
 - [4-JavaScript](#4-JavaScript)
+- [5-Java](#5-Java)
 
 
 ## 1-C/C++
@@ -194,3 +195,30 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 - 《JavaScript快速开发工具箱》[百度云下载链接](https://pan.baidu.com/s/16jXe7bdvKQ5PSUKsaU9sGA) 提取码：656j
 - 《JavaScript从入门到精通（第2版）》[百度云下载链接](https://pan.baidu.com/s/1pS1ouYLzu7eUpoVUxbtr0Q) 提取码：jrt6
 - 《JavaScript.DOM编程艺术（第2版）》[百度云下载链接](https://pan.baidu.com/s/11S3QCWyR-l-XbuDPv9aKHw) 提取码：cxv3
+
+### 5-Java
+
+- 《阿里巴巴Java开发手册--1.4.0详尽版》[百度云下载链接](https://pan.baidu.com/s/1WeViOL2Q0TYTUXn9IiTSlg) 提取码：izov
+- 《ThinkInJava（JAVA编程思想）》[百度云下载链接](https://pan.baidu.com/s/1kPusb9hmf3Uas2coEidFMA) 提取码：53rx
+- 《深入剖析Tomcat》[百度云下载链接](https://pan.baidu.com/s/180itjZWdpNfelLq2X4LE4Q) 提取码：a1fu
+- 《深入理解Java虚拟机：JVM高级特性与最佳实践（最新第二版）》[百度云下载链接](https://pan.baidu.com/s/11H9hkEqbJHsj_fr7QD7QRg) 提取码：jm9w
+- 《深入分析JavaWeb技术内幕》[百度云下载链接](https://pan.baidu.com/s/13DaCoJthZBV3jFeqmie4Vg) 提取码：4jw7
+- 《Spring 5 Recipes, 4th Edition》[百度云下载链接](https://pan.baidu.com/s/12cfIg-6qetxGSJx252TcRg) 提取码：k8k2
+- 《Maven实战（高清完整带书签）》[百度云下载链接](https://pan.baidu.com/s/1ykuMUFIiUKwbfFLguN4yBA) 提取码：6fcj
+- 《Spring in action 中文版（第4版）》[百度云下载链接](https://pan.baidu.com/s/1YTN0FwISg1KWHZTORCIqOg) 提取码：9gm7
+- 《Java性能优化权威指南》[百度云下载链接](https://pan.baidu.com/s/1DvIXyGIOp-gSnyFG2TqfZQ) 提取码：3she
+- 《Java核心技术卷2高级特性原书第10版》[百度云下载链接](https://pan.baidu.com/s/13QAIPOksqv2HKbGinUmtkw) 提取码：s4yd
+- 《Java核心技术（卷2）第8版》[百度云下载链接](https://pan.baidu.com/s/1XHthRgWzw5VPlnOE3PcVHg) 提取码：8gee
+- 《Java核心技术卷1基础知识原书第10版》[百度云下载链接](https://pan.baidu.com/s/10j8nO7G4NOt5jyMCUXpwOA) 提取码：uwff
+- 《Java编辑思想（第四版）》[百度云下载链接](https://pan.baidu.com/s/1NZFmOZLIrLXRal6GfGw-xA) 提取码：prrf
+- 《Java从小白到大牛精简版》[百度云下载链接](https://pan.baidu.com/s/1g-LZrG2No6jVDpBmSEwQ8g) 提取码：gv6m
+- 《Java并发编程的艺术》[百度云下载链接](https://pan.baidu.com/s/1ovp0BwTM4PCNZXwpn_IMNQ) 提取码：kv42
+- 《JAVA并发编程实践》[百度云下载链接](https://pan.baidu.com/s/1md87gnL4TDV5ukqod8caEg) 提取码：achi
+- 《Java 8实战》[百度云下载链接](https://pan.baidu.com/s/1PIAoe5NTW_WWj8LyxBCfdA) 提取码：y6n0
+- 《Head First Servlet and JSP(高清中文版)》[百度云下载链接](https://pan.baidu.com/s/15MuqxrBa9Y5HY97qbyma_A) 提取码：bv51
+- 《Head First Java 中文高清版》[百度云下载链接](https://pan.baidu.com/s/1yhUsKkZhgJHa0oYv1gyfaw) 提取码：7o5g
+- 《Head First Java第二版涵盖java5.0》[百度云下载链接](https://pan.baidu.com/s/1cr2Tcf29w2pxSvFatF_86w) 提取码：7dtw
+- 《Effective Java 2nd Edition 英文版》[百度云下载链接](https://pan.baidu.com/s/1lBTwtOcKDbDZRWkuIj_dCQ) 提取码：81z2
+- 《Camel in Action》[百度云下载链接](https://pan.baidu.com/s/1K1kvaploBQ998BR6ryCTtQ) 提取码：khyf
+- 《Effective Java 中文第二版》[百度云下载链接](https://pan.baidu.com/s/1KLwYmoFcMVpUu4cbDs3ySg) 提取码：77p0
+- 《码出高效：Java开发手册》[百度云下载链接](https://pan.baidu.com/s/1lQ8zORsdf-1PNrzbIVpE5Q) 提取码：ccv4
