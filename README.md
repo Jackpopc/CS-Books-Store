@@ -50,6 +50,8 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 - [3-大数据](#3-大数据)
 - [4-JavaScript](#4-JavaScript)
 - [5-Java](#5-Java)
+- [6-Go](#6-Go)
+- [7-算法与数据结构](#7-算法与数据结构)
 
 
 ## 1-C/C++
@@ -222,3 +224,23 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 - 《Camel in Action》[百度云下载链接](https://pan.baidu.com/s/1K1kvaploBQ998BR6ryCTtQ) 提取码：khyf
 - 《Effective Java 中文第二版》[百度云下载链接](https://pan.baidu.com/s/1KLwYmoFcMVpUu4cbDs3ySg) 提取码：77p0
 - 《码出高效：Java开发手册》[百度云下载链接](https://pan.baidu.com/s/1lQ8zORsdf-1PNrzbIVpE5Q) 提取码：ccv4
+
+## 6-Go
+
+- 《Go并发编程实战》[百度云下载链接](https://pan.baidu.com/s/1WYbD09apsgkvYzJWdCdPAQ) 提取码：rk2c
+- 《Go web编程》[百度云下载链接](https://pan.baidu.com/s/1fzB6ng1uI_5s5_aZFHqI9g) 提取码：x8xa
+- 《Go语言学习笔记》[百度云下载链接](https://pan.baidu.com/s/1TJ6LgYZS0x09cPvvGRDYyw) 提取码：kz63
+- 《学习 Go 语言》[百度云下载链接](https://pan.baidu.com/s/1dGdNQQHczbNXznCzkO2d5Q) 提取码：k1qv
+- 《Go语言编程》[百度云下载链接](https://pan.baidu.com/s/1tAx-55XG7VsUoAfh5t867A) 提取码：lxqa
+- 《Go语言实战》[百度云下载链接](https://pan.baidu.com/s/1gaLqYo3bd2NjsWu7aMtuPg) 提取码：oy8g
+- 《Go语言标准库参考》[百度云下载链接](https://pan.baidu.com/s/1bB_qukz4yRCDXbo0vhvtpA) 提取码：g639
+- 《Go语言程序设计》[百度云下载链接](https://pan.baidu.com/s/19sYdJJvxgmH_H-Q-k4fP7w) 提取码：6rlg
+- 《Go语言圣经》[百度云下载链接](https://pan.baidu.com/s/1kes5PfJAvQWTum9mFds3Yw) 提取码：5vyb
+
+## 7-算法与数据结构
+
+- 《数据结构与算法Python版》[百度云下载链接](https://pan.baidu.com/s/17LZ_9SLD-dmFAuIvoc4BrA) 提取码：lro1
+- 《程序员代码面试指南：IT 名企算法与数据结构题目最优解》[百度云下载链接](https://pan.baidu.com/s/1vpK2Rn7Z-LabYFJ0abHetQ) 提取码：ia34
+- 《数据结构教程与题解》[百度云下载链接](https://pan.baidu.com/s/15tmRT-qpmpKY-Bf9l8yMGw) 提取码：jigg
+- 《算法图解》[百度云下载链接](https://pan.baidu.com/s/1tB9-AEAi1ZFKgkc2v0HkBw) 提取码：zbdu
+- 《labuladong的算法小抄官方完整版》[百度云下载链接](https://pan.baidu.com/s/1fcNxIWP2uHFx8SwGqTxBcA) 提取码：ym4t
