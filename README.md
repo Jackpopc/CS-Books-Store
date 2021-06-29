@@ -171,6 +171,14 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 - 《看漫画学Python：有趣、有料、好玩、好用：全彩版》 [百度云下载链接](https://pan.baidu.com/s/1_vJFLNWHNDGt4EDEJzrXZA) 提取码：aayx
 - 《用 Python 和 Pygame 写游戏 - 从入门到精通》 [百度云下载链接](https://pan.baidu.com/s/1TGwBN8GNj6Oc6AjmTiEDJQ) 提取码：trrw
 - 《用Python进行自然语言处理(中文)》 [百度云下载链接](https://pan.baidu.com/s/1KamwERl9Lmco-Wok9TZUWg) 提取码：s2as
+- 《Python中文指南》 [百度云下载链接](https://pan.baidu.com/s/1mJG_qJcKlb89K97cQgenxA) 提取码：3avj
+- 《Python标准库参考》 [百度云下载链接](https://pan.baidu.com/s/1bGklOONSIxRtN60lEV3zJg) 提取码：dzb3
+- 《Python常见问题》 [百度云下载链接](https://pan.baidu.com/s/1WJIh_Or2HpAPuoPBX_c9bg) 提取码：bhr5
+- 《Python 3.9 新变化？》 [百度云下载链接](https://pan.baidu.com/s/1fGuz7TgpKe01qnZ5MEAgsg) 提取码：gdcl
+- 《Python/C API 参考手册》 [百度云下载链接](https://pan.baidu.com/s/1nc1-n-myxz1CMSLuDrSN_w) 提取码：u6ur
+- 《Python语言参考手册》 [百度云下载链接](https://pan.baidu.com/s/1TqIhXRIbEJG4CV9zMEEnkg) 提取码：sx69
+- 《Python基础教程》 [百度云下载链接](https://pan.baidu.com/s/1q6mW8vpai2ABFKX03Dd-pA) 提取码：w4ic
+- 《Python 索引合集》 [百度云下载链接](https://pan.baidu.com/s/1ZAA-yNkVVdatKRvHI7egKQ) 提取码：d2jq
 
 ### 3-大数据
 
