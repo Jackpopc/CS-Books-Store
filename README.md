@@ -38,7 +38,7 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 
 **问题反馈**：如果书籍无法下载，或者链接失效，请添加我的个人微信**code_7steps**咨询，请备注**git**！
 
-<img src="https://z3.ax1x.com/2021/03/26/6XhNWQ.jpg" width="260" height="260"></img>
+<img src="https://z3.ax1x.com/2021/03/26/6XhNWQ.jpg" width="260" height="260" align=center></img>
 
 
 <h1 align="left">Contents</h1>
