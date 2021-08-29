@@ -52,6 +52,13 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 - [5-Java](#5-Java)
 - [6-Go](#6-Go)
 - [7-算法与数据结构](#7-算法与数据结构)
+- [8-Linux](#8-Linux)
+- [9-计算机网络](#9-计算机网络)
+- [10-数据库](#10-数据库)
+- [11-机器学习](#11-机器学习)
+- [12-深度学习](#12-深度学习)
+- [13-操作系统](#13-操作系统)
+- [14-数据分析与挖掘](#14-数据分析与挖掘)
 
 
 ## 1-C/C++
@@ -184,6 +191,57 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 
 - 《Hadoop权威指南》 [百度云下载链接](https://pan.baidu.com/s/1r1DhrkhMKgERWCP5IFVbyw) 提取码：b3lw
 - 《Hive编程指南》 [百度云下载链接](https://pan.baidu.com/s/1B_FYECdwmi8MyRZLaE3BUw) 提取码：651y
+- 《机器学习与数据挖掘方法和应用（经典）》 [百度云下载链接](https://pan.baidu.com/s/1o__T3Et5voIomZcbzj7Mng) 提取码：bd6q
+- 《大数据架构师指南》 [百度云下载链接](https://pan.baidu.com/s/1kpAiK9RVqNhFihCv9nJZLA) 提取码：8ow9
+- 《决战大数据》 [百度云下载链接](https://pan.baidu.com/s/1u5hmy6rdXpoE0eFJ9XEp-g) 提取码：qjlj
+- 《基于Apache Kylin 构建大数据分析平台》 [百度云下载链接](https://pan.baidu.com/s/1ZGmcPfiFsFso7G9UE_0O8g) 提取码：6re1
+- 《大数据之路：阿里巴巴大数据实践》 [百度云下载链接](https://pan.baidu.com/s/1ZlhykftrehsXX6641xFCZg) 提取码：m4ay
+- 《从零开始学Storm》 [百度云下载链接](https://pan.baidu.com/s/12EmsMvX4EZqisSqJ1g8WSw) 提取码：ypc8
+- 《从Paxos到Zookeeper  分布式一致性原理与实践》 [百度云下载链接](https://pan.baidu.com/s/1g65Gtt5cq9txPz5WC4cC_A) 提取码：vp9n
+- 《大数据技术原理与应用概念、存储、处理、分析与应用(第2版)》 [百度云下载链接](https://pan.baidu.com/s/14aNG58lRr1Ds4TByU_0fZA) 提取码：9p4l
+- 《大数据Spark企业级实战版》 [百度云下载链接](https://pan.baidu.com/s/1BbC9wJeTYHN-jv3oUPHOuw) 提取码：f7mt
+- 《Storm技术内幕与大数据实践》 [百度云下载链接](https://pan.baidu.com/s/11uKakJNtPftGpdBS3HHpTg) 提取码：tfy0
+- 《spark开发基础之Scala快餐》 [百度云下载链接](https://pan.baidu.com/s/1OTEl2yl2mdFvAviS0qwJFw) 提取码：748g
+- 《Spark快速大数据分析》 [百度云下载链接](https://pan.baidu.com/s/1vGH2CEfrL-srMNTPr8cORw) 提取码：p1w1
+- 《Spark机器学习》 [百度云下载链接](https://pan.baidu.com/s/1m-3dcGIPfGy6xRtKxHpOpA) 提取码：6kab
+- 《Spark快速数据处理》 [百度云下载链接](https://pan.baidu.com/s/1_G-ZJZcgPMSiFzJYXaLfeg) 提取码：66sc
+- 《Spark最佳实践陈欢，林世飞著》 [百度云下载链接](https://pan.baidu.com/s/1rEpwJZO4jvMDjs9HnItdzA) 提取码：2lmc
+- 《Spark最佳实践》 [百度云下载链接](https://pan.baidu.com/s/1utROPtYRD9xd0g-Ow19nyg) 提取码：b3v4
+- 《Spark大数据分析核心概念技术及实践OCR》 [百度云下载链接](https://pan.baidu.com/s/1CI6xfea99GLcKdlMVIyrbw) 提取码：zirw
+- 《Spark内核设计的艺术架构设计与实现（耿嘉安）》 [百度云下载链接](https://pan.baidu.com/s/1guARnf11c5XWuxZCkjktcA) 提取码：9n6y
+- 《Spark大数据处理：技术、应用与性能优化(全)》 [百度云下载链接](https://pan.baidu.com/s/1znkl5a_ekL3zvGetvK--vw) 提取码：g3ut
+- 《Scala编程中文版(33章全)》 [百度云下载链接](https://pan.baidu.com/s/1jpCjnWsCjDMn3Gl3bGkURw) 提取码：36pi
+- 《MapReduce设计模式 [（美）迈纳，（美）舒克著]》 [百度云下载链接](https://pan.baidu.com/s/1A3D7BsjFh6WJvwchO1yOLg) 提取码：odtz
+- 《Lucene实战（第2版）》 [百度云下载链接](https://pan.baidu.com/s/1yNwU1aFaqpcoCFxpnHAsSg) 提取码：2yub
+- 《Mahout算法解析与案例实战》 [百度云下载链接](https://pan.baidu.com/s/1oSVtjx-xWjwePcBrgM6WSQ) 提取码：p322
+- 《Presto技术内幕》 [百度云下载链接](https://pan.baidu.com/s/1uvdPqjRpwEAj-q-NFnv1xA) 提取码：c8pe
+- 《Kafka & Mafka技术分享及讨论》 [百度云下载链接](https://pan.baidu.com/s/1rBXESxU73bs9d3hr2TMMeA) 提取码：rwm1
+- 《HBase实战中文版》 [百度云下载链接](https://pan.baidu.com/s/1CAMPM5bIBcOuf370qOILTg) 提取码：vd1l
+- 《Hive编程指南》 [百度云下载链接](https://pan.baidu.com/s/19yO_xGUsxUCu8T15dRwNpQ) 提取码：fea4
+- 《HBase权威指南》 [百度云下载链接](https://pan.baidu.com/s/1gVlgnCD6-kDX_76mqga56Q) 提取码：3njw
+- 《Kafka源码解析与实战》 [百度云下载链接](https://pan.baidu.com/s/11jJ0ve7TKxrozqTchEyvDA) 提取码：c49c
+- 《HBase不睡觉书 带目录（高清）》 [百度云下载链接](https://pan.baidu.com/s/1AWOGQ4AEbpuDTHmPseD9tQ) 提取码：iidy
+- 《Hadoop应用架构》 [百度云下载链接](https://pan.baidu.com/s/1BcubQTrJV1DJjBbcuO1D_g) 提取码：7vx5
+- 《Kafka权威指南(2018中文版)》 [百度云下载链接](https://pan.baidu.com/s/1YvVGv5-9Mx8MVvNUaPbpzg) 提取码：3rww
+- 《Elasticsearch.权威指南（中文版）》 [百度云下载链接](https://pan.baidu.com/s/1aRX2f31Wph9gfvXT3tWmnQ) 提取码：ztpx
+- 《Hadoop The Definitive Guide》 [百度云下载链接](https://pan.baidu.com/s/1Tu9tqzp9TPCU1YjUSsShZw) 提取码：tfwi
+- 《Flink基础教程》 [百度云下载链接](https://pan.baidu.com/s/1b3efqY8eHINrqPfviMzArw) 提取码：gz1w
+- 《Hadoop技术内幕：深入理解MapReduce架构设计与实现原理》 [百度云下载链接](https://pan.baidu.com/s/1UbBYVhWb_-FqSfzdcUprug) 提取码：v46w
+- 《ClickHouse中文文档》 [百度云下载链接](https://pan.baidu.com/s/1avJJoN6jbggKHjBQeYId0Q) 提取码：tfwu
+- 《Elasticsearch集成Hadoop最佳实践》 [百度云下载链接](https://pan.baidu.com/s/1iRXT2d9zsDpOQ_tQrvp6Yw) 提取码：rhqc
+- 《CDH集群运维手册》 [百度云下载链接](https://pan.baidu.com/s/1t6KVLnRYGYiE2t8qjVQY8A) 提取码：g4c3
+- 《Apache+Kylin权威指南》 [百度云下载链接](https://pan.baidu.com/s/1lTb3-KAGeLUUX1uusZvXQw) 提取码：5qj5
+- 《Apache Spark源码剖析》 [百度云下载链接](https://pan.baidu.com/s/1X4vR0ejDOIFfYylnRpESGg) 提取码：x1p5
+- 《Apache Kafka源码剖析》 [百度云下载链接](https://pan.baidu.com/s/1DFWh0hd3sidIhyG2DsPuUQ) 提取码：rq7s
+- 《最全的大数据解决方案》 [百度云下载链接](https://pan.baidu.com/s/1jpdP1GsT9SgBi17wUY9B8w) 提取码：b4sc
+- 《相关性搜索：利用Solr与Elasticsearch创建智能应用》 [百度云下载链接](https://pan.baidu.com/s/1X-RSxwchj7-hU7WJW04pRQ) 提取码：5wsd
+- 《Apache Kafka实战》 [百度云下载链接](https://pan.baidu.com/s/1G4b1-w1Pz8JnvcBMSEk2JQ) 提取码：ozsi
+- 《实战Elasticsearch、Logstash、Kibana：分布式大数据搜索与日志挖掘及可视》 [百度云下载链接](https://pan.baidu.com/s/18p2-w95ypHe6ksaX6baOvQ) 提取码：t828
+- 《图解Spark  -  核心技术与案例实战》 [百度云下载链接](https://pan.baidu.com/s/1q5omKXntjwKmkB-o7YntVw) 提取码：twag
+- 《深入理解Spark：核心思想与源码分析》 [百度云下载链接](https://pan.baidu.com/s/1jl5rb5SEmomagcw60gI5Qw) 提取码：jrg2
+- 《深入学习MongoDB》 [百度云下载链接](https://pan.baidu.com/s/1CQnOeA-ZPIcySas7Fn9ivg) 提取码：7rhp
+- 《深入理解Spark 核心思想与源码分析 耿嘉安著》 [百度云下载链接](https://pan.baidu.com/s/1fXektfQurMmv-bol1zrdow) 提取码：vakj
+- 《可视化数据》 [百度云下载链接](https://pan.baidu.com/s/12IhbC769-_EIUyz6pS6-8A) 提取码：aejm
 
 ### 4-JavaScript
 
@@ -252,3 +310,45 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 - 《数据结构教程与题解》[百度云下载链接](https://pan.baidu.com/s/15tmRT-qpmpKY-Bf9l8yMGw) 提取码：jigg
 - 《算法图解》[百度云下载链接](https://pan.baidu.com/s/1tB9-AEAi1ZFKgkc2v0HkBw) 提取码：zbdu
 - 《labuladong的算法小抄官方完整版》[百度云下载链接](https://pan.baidu.com/s/1fcNxIWP2uHFx8SwGqTxBcA) 提取码：ym4t
+
+## 8-Linux
+
+**待更新**，资料整理中...
+
+请**Star**、**fork**本项目，或者关注公众号**后端即可**，第一时间获取资源更新情况！
+
+## 9-计算机网络
+
+**待更新**，资料整理中...
+
+请**Star**、**fork**本项目，或者关注公众号**后端即可**，第一时间获取资源更新情况！
+
+## 10-数据库
+
+**待更新**，资料整理中...
+
+请**Star**、**fork**本项目，或者关注公众号**后端即可**，第一时间获取资源更新情况！
+
+## 11-机器学习
+
+**待更新**，资料整理中...
+
+请**Star**、**fork**本项目，或者关注公众号**后端即可**，第一时间获取资源更新情况！
+
+## 12-深度学习
+
+**待更新**，资料整理中...
+
+请**Star**、**fork**本项目，或者关注公众号**后端即可**，第一时间获取资源更新情况！
+
+## 13-操作系统
+
+**待更新**，资料整理中...
+
+请**Star**、**fork**本项目，或者关注公众号**后端即可**，第一时间获取资源更新情况！
+
+## 14-数据分析与挖掘
+
+**待更新**，资料整理中...
+
+请**Star**、**fork**本项目，或者关注公众号**后端即可**，第一时间获取资源更新情况！
