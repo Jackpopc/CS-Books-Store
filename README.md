@@ -59,9 +59,13 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 - [12-深度学习](#12-深度学习)
 - [13-操作系统](#13-操作系统)
 - [14-数据分析与挖掘](#14-数据分析与挖掘)
+- [15-设计模式](#15-设计模式)
+- [16-数学知识](#16-数学知识)
+- [17-自然语言](#17-自然语言)
 
+### 1-C/C++
 
-## 1-C/C++
+#### 👉[点击一键打包下载](./docs/C&C++.md)
 
 #### 1.1-C语言
 
@@ -120,6 +124,8 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 
 ### 2-Python
 
+#### 👉[点击一键打包下载](./docs/Python.md)
+
 - 《Python编程(第4版)》 [百度云下载链接](https://pan.baidu.com/s/1HE0-0pLc4j1FXWbY7awLXg) 提取码：9ure
 - 《使用Python进行自然语言处理》 [百度云下载链接](https://pan.baidu.com/s/14UzbFiu9kVFu1YKeAlS0cw) 提取码：wk9l
 - 《Hadoop数据分析》 [百度云下载链接](https://pan.baidu.com/s/1qchAsWOah688pSwGq7P5iA) 提取码：k1jh
@@ -169,8 +175,8 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 - 《python无师自通》 [百度云下载链接](https://pan.baidu.com/s/1QEcjlUhH2KBYK9rqW3q2Mg) 提取码：6l67
 - 《Python项目开发实战 第2版》 [百度云下载链接](https://pan.baidu.com/s/1b1HKlZvx0h38QyKnR_Lseg) 提取码：heby
 - 《Python游戏编程快速上手》 [百度云下载链接](https://pan.baidu.com/s/17uiJixtPqMQAQsW7ki8oBg) 提取码：v07c
-- 《Python与简单网络爬虫的编写》 [百度云下载链接]() 提取码：
-- 《Python源码剖析：深度探索动态语言核心技术》 [百度云下载链接]() 提取码：
+- 《Python与简单网络爬虫的编写》 [百度云下载链接](https://pan.baidu.com/s/1klG2L5y-UmDHAjMRDE-bFw) 提取码：td8y
+- 《Python源码剖析：深度探索动态语言核心技术》 [百度云下载链接](https://pan.baidu.com/s/1Z-8_t6Hu952UfB-avEL7XQ) 提取码：0t62
 - 《python自动化运维2》 [百度云下载链接](https://pan.baidu.com/s/1AgtEpRbwtO-fvv71M9uQ5A) 提取码：0q82
 - 《Python之tkinter中文教程》 [百度云下载链接](https://pan.baidu.com/s/1tGQfVRTNvhfNLKSmndkZnw) 提取码：zpk1
 - 《笨办法学Python(第三版)》 [百度云下载链接](https://pan.baidu.com/s/1g_LBhJqRLYRaubkRX0SiPg) 提取码：seyb
@@ -188,6 +194,8 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 - 《Python 索引合集》 [百度云下载链接](https://pan.baidu.com/s/1ZAA-yNkVVdatKRvHI7egKQ) 提取码：d2jq
 
 ### 3-大数据
+
+#### 👉[点击一键打包下载](./docs/大数据.md)
 
 - 《Hadoop权威指南》 [百度云下载链接](https://pan.baidu.com/s/1r1DhrkhMKgERWCP5IFVbyw) 提取码：b3lw
 - 《Hive编程指南》 [百度云下载链接](https://pan.baidu.com/s/1B_FYECdwmi8MyRZLaE3BUw) 提取码：651y
@@ -245,6 +253,8 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 
 ### 4-JavaScript
 
+#### 👉[点击一键打包下载](./docs/JavaScript.md)
+
 - 《Javascript从入门到精通》[百度云下载链接](https://pan.baidu.com/s/1T8FpCrTdUZQcpGX2UrG__g) 提取码：88m7
 - 《JavaScript高级程序设计（第3版）》[百度云下载链接](https://pan.baidu.com/s/1WjA-9aOqshxDgnom10O4RQ) 提取码：wbw7
 - 《01.JavaScript_DOM编程艺术第二版（中文）》[百度云下载链接](https://pan.baidu.com/s/1npshUDBLi1FrFSwWOQEmoQ) 提取码：vibs
@@ -265,6 +275,8 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 - 《JavaScript.DOM编程艺术（第2版）》[百度云下载链接](https://pan.baidu.com/s/11S3QCWyR-l-XbuDPv9aKHw) 提取码：cxv3
 
 ### 5-Java
+
+#### 👉[点击一键打包下载](./docs/Java.md)
 
 - 《阿里巴巴Java开发手册--1.4.0详尽版》[百度云下载链接](https://pan.baidu.com/s/1WeViOL2Q0TYTUXn9IiTSlg) 提取码：izov
 - 《ThinkInJava（JAVA编程思想）》[百度云下载链接](https://pan.baidu.com/s/1kPusb9hmf3Uas2coEidFMA) 提取码：53rx
@@ -293,6 +305,8 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 
 ## 6-Go
 
+#### 👉[点击一键打包下载](./docs/Go.md)
+
 - 《Go并发编程实战》[百度云下载链接](https://pan.baidu.com/s/1WYbD09apsgkvYzJWdCdPAQ) 提取码：rk2c
 - 《Go web编程》[百度云下载链接](https://pan.baidu.com/s/1fzB6ng1uI_5s5_aZFHqI9g) 提取码：x8xa
 - 《Go语言学习笔记》[百度云下载链接](https://pan.baidu.com/s/1TJ6LgYZS0x09cPvvGRDYyw) 提取码：kz63
@@ -305,6 +319,8 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 
 ## 7-算法与数据结构
 
+#### 👉[点击一键打包下载](./docs/算法与数据结构.md)
+
 - 《数据结构与算法Python版》[百度云下载链接](https://pan.baidu.com/s/17LZ_9SLD-dmFAuIvoc4BrA) 提取码：lro1
 - 《程序员代码面试指南：IT 名企算法与数据结构题目最优解》[百度云下载链接](https://pan.baidu.com/s/1vpK2Rn7Z-LabYFJ0abHetQ) 提取码：ia34
 - 《数据结构教程与题解》[百度云下载链接](https://pan.baidu.com/s/15tmRT-qpmpKY-Bf9l8yMGw) 提取码：jigg
@@ -312,6 +328,8 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 - 《labuladong的算法小抄官方完整版》[百度云下载链接](https://pan.baidu.com/s/1fcNxIWP2uHFx8SwGqTxBcA) 提取码：ym4t
 
 ## 8-Linux
+
+#### 👉[点击一键打包下载](./docs/Linux.md)
 
 - 《鸟哥的Linux私房菜基础篇和服务器篇》[百度云下载链接](https://pan.baidu.com/s/1a2Cqz_RQavyMY87fszFAZA) 提取码：4i5y
 - 《深入理解Linux内核》[百度云下载链接](https://pan.baidu.com/s/1-CEXOnVKZSfyou6BPhUWqg) 提取码：qezf
@@ -346,6 +364,8 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 
 ## 9-计算机网络
 
+#### 👉[点击一键打包下载](./docs/计算机网络.md)
+
 - 《网络是怎样连接的 (图灵程序设计丛书)》[百度云下载链接](https://pan.baidu.com/s/1sk58M6g30WogRCafh-kz5g) 提取码：fiig
 - 《计算机网络-自顶向下方法-第6版》[百度云下载链接](https://pan.baidu.com/s/11Szv9QkTbIXst-z5oHFUBg) 提取码：9aat
 - 《图解TCPIP(第5版)》[百度云下载链接](https://pan.baidu.com/s/1yysa8rUBbKR2Kqdik-q6Gw) 提取码：9ljj
@@ -365,8 +385,9 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 - 《tcp源码分析》[百度云下载链接](https://pan.baidu.com/s/1qofEzXqR3KKijZHu7fZnFA) 提取码：fxav
 - 《TCP-IP详解卷三》[百度云下载链接](https://pan.baidu.com/s/1SmUNWm3hRiPrmnXdAc9a-Q) 提取码：5xgu
 
-
 ## 10-数据库
+
+#### 👉[点击一键打包下载](./docs/数据库.md)
 
 - 《Redis设计与实现》[百度云下载链接](https://pan.baidu.com/s/1L3ClJUIM9KSVdHqi_t7Jgg) 提取码：x5t2
 - 《MySQL5.5从零开始学》[百度云下载链接](https://pan.baidu.com/s/105gcSzoS3-FmlI06LbCAaw) 提取码：icjw
@@ -390,6 +411,8 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 - 《SQLite 权威指南》[百度云下载链接](https://pan.baidu.com/s/1Pnes-FThTsAbnIT5ltkAKQ) 提取码：b5ua
 
 ## 11-机器学习
+
+#### 👉[点击一键打包下载](./docs/机器学习.md)
 
 - 《机器学习实战》[百度云下载链接](https://pan.baidu.com/s/1QCgb3eTwfa0no62u2qRetQ) 提取码：awj8
 - 《机器学习导论》[百度云下载链接](https://pan.baidu.com/s/1l0JSlbNQCFabsVKxhgsVgg) 提取码：vkol
@@ -420,6 +443,8 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 
 ## 12-深度学习
 
+#### 👉[点击一键打包下载](./docs/深度学习.md)
+
 - 《Python深度学习》[百度云下载链接](https://pan.baidu.com/s/1566DcAHXZSKM_mjVZR5mdA) 提取码：uchj
 - 《白话深度学习姊妹篇--白话大数据与ML》[百度云下载链接](https://pan.baidu.com/s/1MOYlEee6GeLlRHQb7JJT4w) 提取码：ftr5
 - 《Programming-PyTorch-for-Deep-Learning.Creating-》[百度云下载链接](https://pan.baidu.com/s/1mijiQbaBwVVxxMiizLcdCA ) 提取码：qnc1
@@ -445,6 +470,8 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 
 ## 13-操作系统
 
+#### 👉[点击一键打包下载](./docs/操作系统.md)
+
 - 《自己动手写操作系统》[百度云下载链接](https://pan.baidu.com/s/1baHcU6sSeXhGSSNb_uiJ4A) 提取码：cnxo
 - 《深入理解计算机系统 第3版》[百度云下载链接](https://pan.baidu.com/s/1a8Sx3sn9mt4llqP7XQfJBg) 提取码：vhfc
 - 《操作系统真象还原》[百度云下载链接](https://pan.baidu.com/s/17D8XhJPhcKIQv_h1sa8OOg) 提取码：k0jv
@@ -466,6 +493,8 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 - 《30天自制操作系统 (图灵程序设计丛书)》[百度云下载链接](https://pan.baidu.com/s/1EXfr9CIRKBkOuEqEuAfzZw) 提取码：n5yh
 
 ## 14-数据分析与挖掘
+
+#### 👉[点击一键打包下载](./docs/数据分析与挖掘.md)
 
 - 《增长黑客 创业公司的用户与收入增长秘籍 - 范冰》[百度云下载链接](https://pan.baidu.com/s/1fREnbt3qLCIwWOZWHkZ9rw) 提取码：ikyu
 - 《数据挖掘原理与算法》[百度云下载链接](https://pan.baidu.com/s/13sbZq1cII7CE0xMgCW87nQ) 提取码：9o0i
@@ -490,6 +519,47 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 - 《触手可及的大数据分析工具：Tableau案例集》[百度云下载链接](https://pan.baidu.com/s/1w3jXlhXy1pVqKaOHupg9YA) 提取码：ftse
 - 《Python编程-数据挖掘入门与实践(中文完整版)-图灵程序》[百度云下载链接](https://pan.baidu.com/s/1gnNRpSQudCjm0gckvkqypg) 提取码：fudv
 - 《Python for Data Analysis》[百度云下载链接](https://pan.baidu.com/s/1fMKbIkdmJ0fM7MvzsHDfwg) 提取码：otgs
+
+### 15-设计模式
+
+#### 👉[点击一键打包下载](./docs/设计模式.md)
+
+- 《研磨设计模式》[百度云下载链接](https://pan.baidu.com/s/1yX3myUEXJZgk7PYDUOx6dA) 提取码：pxa4
+- 《代码大全2中文版》[百度云下载链接](https://pan.baidu.com/s/1ilxd11Km9H18enJzv8kTWA) 提取码：r6tt
+- 《HeadFirst设计模式（中文版）》[百度云下载链接](https://pan.baidu.com/s/188piD9Fo7tre2Anwacdb2w) 提取码：gc30
+
+- 《大话设计模式》[百度云下载链接](https://pan.baidu.com/s/1tQVpzsj0mCSk87qMB-vb9Q) 提取码：sfi1
+- 《C++版常见设计模式解析与实现》[百度云下载链接](https://pan.baidu.com/s/1CB9kS1pvt2Xncfq1J_0FQA) 提取码：1ngl
+- 《重构：改善既有代码的设计（第2版）》[百度云下载链接](https://pan.baidu.com/s/1LYONRilzeMrToQSR34bopA) 提取码：ysis
+- 《图解设计模式》[百度云下载链接](https://pan.baidu.com/s/16m795itSCINMUp4yqOD6hg) 提取码：itoy
+- 《概念与技术（第3版）》[百度云下载链接](https://pan.baidu.com/s/1G5wWKNNkgzxywL1bISDd7A) 提取码：hywy
+- 《敏捷软件开发：原则、模式与实践》[百度云下载链接](https://pan.baidu.com/s/15G830KWcfK7HWwwQd99WbQ) 提取码：pjp4
+- 《代码整洁之道》[百度云下载链接](https://pan.baidu.com/s/1MbAqWTy4cy7sp21dSk5KgA) 提取码：sthv
+- 《设计模式之禅（第2版）》[百度云下载链接](https://pan.baidu.com/s/1_r2vODF2bMbwmcWiaPfTsw) 提取码：xg8l
+
+### 16-数学知识
+
+#### 👉[点击一键打包下载](./docs/数学知识.md)
+
+- 《离散数学及其应用》[百度云下载链接](https://pan.baidu.com/s/1LB341ixWVv9ILnFl58TZ7A) 提取码：nhe1
+- 《计算复杂性：现代方法》[百度云下载链接](https://pan.baidu.com/s/1rUW_paP35nmV43ri-G2rNA) 提取码：yjod
+- 《数学之美》[百度云下载链接](https://pan.baidu.com/s/1JxQVf02OeNiCil5T6_TlIQ) 提取码：sbb4
+- 《程序员的数学卷一 清晰版》[百度云下载链接](https://pan.baidu.com/s/1YgsqdmSzpD5Su69QP6C2Wg) 提取码：uzk5
+- 《概率论与数理统计 - 陈希孺》[百度云下载链接](https://pan.baidu.com/s/16OaGJBjLZUdMXcB2WVkORA) 提取码：5f16
+- 《程序员的数学卷1 -  清晰版》[百度云下载链接](https://pan.baidu.com/s/1ni8PE1W8jOH0kvHMD1vLxg) 提取码：j5n1
+- 《程序员的数学卷2-概率统计》[百度云下载链接](https://pan.baidu.com/s/19M4fkjVck-BJwVADFWkylA) 提取码：7um3
+- 《程序员的数学卷3-线性代数》[百度云下载链接](https://pan.baidu.com/s/1MYhNPbB3_YI7Lk-8afTd1g) 提取码：1bu3
+
+### 17-自然语言
+
+#### 👉[点击一键打包下载](./docs/自然语言.md)
+
+- 《斯坦福CS224n：自然语言处理与深度学习笔记》[百度云下载链接](https://pan.baidu.com/s/162zQMRE1N2dGoQ0_2IIFPg) 提取码：sfft
+- 《Writing Code for NLP Research》[百度云下载链接](https://pan.baidu.com/s/1hl1TIoqBggLWAEE85vLEZA) 提取码：klf9
+- 《语音与语言处理》[百度云下载链接](https://pan.baidu.com/s/1gq66JklFbb_GACNIejZHHQ) 提取码：oaoe
+- 《Embedding Methods for NLP emnlp tutorial 2014》[百度云下载链接](https://pan.baidu.com/s/1nMecjrjOYt81g5KrCMF2Bg) 提取码：2rmo
+- 《Deep Learning for NLP》[百度云下载链接](https://pan.baidu.com/s/19ghJXnceoI2DdJXP_D7t0A) 提取码：w1s0
+- 《PYTHON自然语言处理中文翻译 NLTK 中文版》[百度云下载链接](https://pan.baidu.com/s/1xVo8rZYb-bwkPk-eC8cwjQ) 提取码：nt3q
 
 **持续更新**，资料整理中...
 
