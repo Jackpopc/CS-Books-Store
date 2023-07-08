@@ -64,6 +64,7 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 - [15-设计模式](#15-设计模式)
 - [16-数学知识](#16-数学知识)
 - [17-自然语言](#17-自然语言)
+- [18-前端](#18-前端)
 
 ### 1-C/C++
 
@@ -562,6 +563,23 @@ CS-Books-Store是一个收集计算机领域经典书籍的开源项目，供各
 - 《Embedding Methods for NLP emnlp tutorial 2014》[百度云下载链接](https://pan.baidu.com/s/1nMecjrjOYt81g5KrCMF2Bg) 提取码：2rmo
 - 《Deep Learning for NLP》[百度云下载链接](https://pan.baidu.com/s/19ghJXnceoI2DdJXP_D7t0A) 提取码：w1s0
 - 《PYTHON自然语言处理中文翻译 NLTK 中文版》[百度云下载链接](https://pan.baidu.com/s/1xVo8rZYb-bwkPk-eC8cwjQ) 提取码：nt3q
+
+### 18-前端
+
+#### 👉[点击一键打包下载](./docs/前端.md)
+
+- 《Bootstrap实战》[百度云下载链接](https://pan.baidu.com/s/16kk3hAPdcQf-rhH1JCcDew) 提取码：opps
+- 《jQuery权威指南》[百度云下载链接](https://pan.baidu.com/s/1tPT8rAHabGmlrC0nrJyo4A) 提取码：j2zo
+- 《深入浅出Node.js》[百度云下载链接](https://pan.baidu.com/s/16LBQ_2d0AOrVTyArGQ8nFQ) 提取码：04gj
+- 《JavaScript.DOM编程艺术（第2版）》[百度云下载链接](https://pan.baidu.com/s/18BDi9deXEHcGmwEf0GvfSw) 提取码：uqmb
+- 《Node.js开发指南》[百度云下载链接](https://pan.baidu.com/s/1iwe9UH-FR4NrPqB6O0kaiA) 提取码：xfq9
+- 《JavaScript高级程序设计（第3版）》[百度云下载链接](https://pan.baidu.com/s/1UIpWuoqyrwrPhjPePZJXtQ) 提取码：b93n
+- 《HTML与CSS入门经典（第7版）》[百度云下载链接](https://pan.baidu.com/s/1eTVCBfacGsNtlr_xehTBsQ) 提取码：h38o
+- 《HTML5与CSS3基础教程（第8版）》[百度云下载链接](https://pan.baidu.com/s/1HWmyXigD4xYuEUzG-86CJg) 提取码：nvss
+- 《jQuery高级编程》[百度云下载链接](https://pan.baidu.com/s/1wUA7ZXHf9YCZf2wqNtOukA) 提取码：jcb4
+- 《HTML5揭秘》[百度云下载链接](https://pan.baidu.com/s/1uuvovM4lFTwJagxaZuKFHA) 提取码：wt3f
+- 《Javascript 高效图形编程》[百度云下载链接](https://pan.baidu.com/s/1EUls5Bz7foNW1KqY5rVbKg) 提取码：kbxn
+- 《深入解析jQuery架构设计与实现原理》[百度云下载链接](https://pan.baidu.com/s/1ad_cRLAzbtAamH4VmsMvCg) 提取码：t6nn
 
 **持续更新**，资料整理中...
 
