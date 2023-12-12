@@ -1,3 +1,5 @@
+> 高考志愿、考研保研、职业规划、简历优化，欢迎加入[《猴哥成长营》](https://link.zhihu.com/?target=https%3A//www.yuque.com/jackpop/ulig5a/srnochggbsa2eltw%3FsingleDoc%23)！
+
 <h1 align="left">CS-Books-Store</h1>
 <p align="center">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/Jackpopc/CS-Books-Store">
